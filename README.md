@@ -1,8 +1,9 @@
 # Moderation Bot
 
 #### Requirements & Steps
-* This Project
-* Node.js, Discord.js Installed
+* Clone this repo `git clone https://github.com/Student-Hackathons/discord-moderation-bot.git`
+* Install Node.js 
+* Install Discord.js `npm i discord.js`
 * Discord Bot Token, Prefix
 * Edit the `config.js and owner.json` file
 * Run `npm i` once in Terminal to install Dependencies
